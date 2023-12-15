@@ -6,6 +6,9 @@ functionalAccounts.json
 # Configs
 .env
 
+# OpenAPI
+openapi.json
+
 # Logs
 logs
 *.log
